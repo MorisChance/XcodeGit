@@ -5,6 +5,7 @@
 //  Created by 森本　浩輔 on 2022/10/16.
 //
 
+//今日はいい天気
 import UIKit
 
 class ViewController: UIViewController {
